@@ -3,4 +3,5 @@
 
 # References
 
-I.M. Danilevicz, V.A. Reisen, P. Bondon. Expectile and M-quantile regression for panel data. Statistics and Computing, 2024, 34 (3), pp.97. ⟨10.1007/s11222-024-10396-7⟩.
+I.M. Danilevicz, V.A. Reisen, P. Bondon. Expectile and M-quantile regression for panel data. 
+Statistics and Computing, 2024, 34 (3), pp.97. (https://doi.org/10.1007/s11222-024-10396-7).
